@@ -1,0 +1,214 @@
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mustafa\Desktop\Space İnvaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form5.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form6.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form5.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form6.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\selo\Desktop\C# ve XNA Oyunlar\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form6.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form6.resources
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form6.resources
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form6.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\selo\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\selo\Desktop\C# VE Programlar\Uzaylı Avı\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Uzaylı Avı.accdb
+C:\Users\Mustafa\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+C:\Users\Ogrenci\Desktop\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Uzaylı Avı.accdb
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+E:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+G:\Space Invaders v.1.0 - Kopya\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\bin\Debug\Uzaylı Avı.accdb
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Space Invaders v.1.0 - Kopya hatalı\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Uzaylı Avı.accdb
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mustafa\Desktop\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Uzaylı Avı.accdb
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe
+G:\Uzaylı Avı Proje\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form3.resources
+C:\Users\Mustafa\Documents\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.GenerateResource.Cache
+F:\Belgelerim\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\bin\Debug\Space İnvaders v.1.0.exe.config
+F:\Belgelerim\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Interop.SpeechLib.dll
+F:\Belgelerim\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.csproj.ResolveComReference.cache
+F:\Belgelerim\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+F:\Belgelerim\Çalışmalar\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Debug\Space İnvaders v.1.0.pdb
